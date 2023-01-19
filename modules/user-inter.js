@@ -1,4 +1,3 @@
-
 import Store from './store.js';
 
 // UI class: Handle UI tasks e.g. when a book displays on the list or removes from the list
