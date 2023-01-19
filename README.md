@@ -19,7 +19,7 @@ A basic website that allows you to add and remove books. There has been added st
 
  - Download zip file of the project
  - Extract folder to the hard drive
- - Opened index.html file with any modern web browser i.e. chrome
+ - Opened index.html file with any modern web browser i.e. chrome.
 
 
 
